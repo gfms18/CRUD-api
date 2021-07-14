@@ -1,0 +1,75 @@
+nav {
+    padding-left: 15pt;
+    padding-right: 15pt;
+    background: rgb(255,0,193);
+    background: linear-gradient(90deg, rgba(255,0,193,1) 0%, rgba(255,239,0,1) 100%); 
+    box-shadow: white;
+    border-radius: 3px;
+}
+
+input{
+    color: white;
+}
+
+body{
+    background-color: rgb(15, 15, 15);
+}
+
+a{
+    color: rgb(12, 0, 187);
+    
+}
+
+th{
+    color: rgb(233, 229, 229);
+}
+
+
+
+td{
+    color: rgb(233, 229, 229);
+}
+
+tr{
+    border-color: white;
+}
+
+.content{
+    margin-top: 15pt;
+}
+
+.header {
+    color: #ee6e73;
+    font-weight: 300;
+}
+
+.field-title {
+    font-weight: 500;
+}
+
+.field-value {
+    color: #616161;
+    font-weight: 300;
+}
+
+.corth{
+    color:rgb(0, 255, 191)
+}
+
+#botaodelete{
+    color: rgb(214, 0, 0);
+}
+
+#iconeadd{
+    margin-right: 7px;
+    font-size: 20px;
+}
+
+#botaocancelar{
+   border-radius: 7px;
+}
+
+#botaosalvar{
+    border-radius: 7px;
+}
+
